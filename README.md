@@ -1,3 +1,3 @@
-# color game
+# tempignite
 
-A game that will help you to improvise your RGB color knowledge.
+trying something
